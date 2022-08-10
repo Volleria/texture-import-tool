@@ -1,7 +1,8 @@
 # texture-import-tool
-### 图片资源导入配置工具包
 
-**使用方法**
+图片资源导入配置工具包
+
+**【使用方法】**
 
 在Unity中，点击 Windows——>Package Manager
 
