@@ -1,0 +1,16 @@
+{
+    "name": "EKKO测试.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee15ebf6416b00e43aae5b886007abb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
